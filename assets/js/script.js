@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "Web development", "Oracle DATABASE Managment", "SQL DATABASE Managment"],
+    strings: ["Oracle DATABASE Managment", "SQL DATABASE Managment","Web development","frontend development", "backend development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
